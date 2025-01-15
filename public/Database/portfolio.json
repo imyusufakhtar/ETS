@@ -1,0 +1,31 @@
+{
+    "heading": "Our Recent Projects",
+    "description": "Explore some of the projects we've successfully delivered to our clients. Each one reflects our dedication to excellence and innovation.",
+    "projects": [
+      {
+        "image": "Images/e-commerce.jpg",
+        "alt": "Project 1",
+        "title": "E-Commerce Platform",
+        "description": "Short description of the project, highlighting key features and outcomes."
+      },
+      {
+        "image": "Images/saas-solution.png",
+        "alt": "Project 2",
+        "title": "SaaS Solution",
+        "description": "Short description of the project, highlighting key features and outcomes."
+      },
+      {
+        "image": "Images/e-commerce.jpg",
+        "alt": "Project 3",
+        "title": "E-Commerce Platform",
+        "description": "Short description of the project, highlighting key features and outcomes."
+      },
+      {
+        "image": "Images/dashboard.png",
+        "alt": "Project 4",
+        "title": "Dashboard Solution",
+        "description": "Short description of the project, highlighting key features and outcomes."
+      }
+    ]
+  }
+  

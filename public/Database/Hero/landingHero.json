@@ -1,0 +1,17 @@
+{
+    "heading": "Redefining Business Success with Next-Gen IT Strategies",
+    "description": "Elevatech Solutions delivers customized IT and business services to propel your company's success in a digital-first world. Together, we drive innovation and growth.",
+    "cta_buttons": [
+      {
+        "text": "Explore Our Services",
+        "link": "/services",
+        "class": "Landing-cta-btn"
+      },
+      {
+        "text": "Learn More About Us",
+        "link": "/About",
+        "class": "Landing-cta-btn Landing-secondary-btn"
+      }
+    ]
+  }
+  

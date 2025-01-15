@@ -1,0 +1,74 @@
+/* Values Section */
+.values {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    padding: 40px 20px;
+    background-color: #0f172a;
+}
+
+.value-item {
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #1e293b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.value-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.value-item h3 {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #38bdf8; /* Light blue accent for headings */
+}
+
+.value-item p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #e2e8f0;
+}
+
+/* Background Colors for Each Section */
+.value-item.trust {
+    border-left: 4px solid #3b82f6;
+}
+
+.value-item.responsibility {
+    border-left: 4px solid #22c55e;
+}
+
+.value-item.standard {
+    border-left: 4px solid #ec4899;
+}
+
+.value-item.understanding {
+    border-left: 4px solid #f59e0b;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .values {
+        gap: 15px;
+    }
+
+    .value-item {
+        padding: 20px;
+    }
+
+    .value-item h3 {
+        font-size: 1.4rem;
+    }
+
+    .value-item p {
+        font-size: 0.95rem;
+    }
+}

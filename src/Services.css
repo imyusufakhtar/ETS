@@ -1,0 +1,132 @@
+/* Services Section */
+.services {
+    padding: 90px 20px;
+    background-color: #121212;
+    color: #e0e0e0;
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 2.6rem;
+    color: #29b6f6;
+    font-weight: bold;
+    margin-bottom: 20px;
+    /* letter-spacing: 2px; */
+}
+
+.services-desc {
+    font-size: 1.2rem;
+    color: #b0bec5;
+    line-height: 1.8;
+    margin: 0 auto 50px;
+    max-width: 800px;
+    padding: 0 15px;
+}
+
+/* Service Cards Layout */
+.services-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Individual Service Card */
+.service-item {
+    /* background: linear-gradient(145deg, #1e1e1e, #292929); */
+    background-color: #0f172a;
+    border-radius: 20px;
+    width: calc(25% - 20px); /* 3 items per row */
+    min-width: 300px;
+    padding: 25px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.service-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.service-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.service-img:hover {
+    transform: scale(1.05);
+}
+
+.service-item h3 {
+    font-size: 1.5rem;
+    color: #29b6f6;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.service-item p {
+    font-size: 1rem;
+    color: #cfd8dc;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.service-item a {
+    margin-top: auto;
+    display: inline-block;
+    padding: 12px 25px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #121212;
+    background-color: #29b6f6;
+    text-decoration: none;
+    border-radius: 50px;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.service-item a:hover {
+    background-color: #0277bd;
+    transform: translateY(-3px);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 992px) {
+    .services{
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .service-item {
+        width: calc(50% - 20px); /* 2 items per row */
+    }
+}
+
+@media (max-width: 768px) {
+    .services h2 {
+        font-size: 2.2rem;
+    }
+
+    .services-desc {
+        font-size: 1rem;
+    }
+
+    .services-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .service-item {
+        width: 100%;
+    }
+}

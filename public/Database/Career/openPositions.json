@@ -1,0 +1,26 @@
+{
+    "heading": "Open Positions",
+    "positions": [
+      {
+        "title": "Front-End Developer",
+        "description": "Join our team to build beautiful and responsive web interfaces using the latest web technologies. Experience with React.js is a plus.",
+        "email": "career@elevatech-solutions.com"
+      },
+      {
+        "title": "Back-End Developer",
+        "description": "Seeking a Back-End Developer skilled in Node.js, Express, and API development to build robust back-end solutions.",
+        "email": "career@elevatech-solutions.com"
+      },
+      {
+        "title": "Business Analyst",
+        "description": "We need a Business Analyst to bridge the gap between business needs and technical solutions. You’ll collaborate with stakeholders and the tech team.",
+        "email": "career@elevatech-solutions.com"
+      },
+      {
+        "title": "Hiring Manager (HR)",
+        "description": "We are looking for a Hiring Manager to lead our recruitment process and help bring in top talent for our expanding team.",
+        "email": "career@elevatech-solutions.com"
+      }
+    ]
+  }
+  

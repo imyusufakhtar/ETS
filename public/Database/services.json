@@ -1,0 +1,31 @@
+{
+    "heading": "Our Services",
+    "description": "We believe in leveraging the power of innovation to seize new opportunities. Different perspectives that arise out of Argus - emerging diversity of various pitch blend to transform every vision into reality. Our service area, defined by robust serving capability and the ability to source best talent from across the world, is backed by 24X7 support, and this very initiative drives our service excellence.",
+    "services": [
+      {
+        "image": "Images/web.jpg",
+        "alt": "Service 1",
+        "title": "Web Development",
+        "description": "We build responsive and high-performance websites tailored to your business needs using the latest technologies like React.js, Node.js, and more."
+      },
+      {
+        "image": "Images/app.jpg",
+        "alt": "Service 2",
+        "title": "Mobile App Development",
+        "description": "Our team develops user-friendly mobile applications for both iOS and Android, providing seamless experiences across all devices."
+      },
+      {
+        "image": "Images/e-commerce.jpg",
+        "alt": "Service 3",
+        "title": "E-commerce Solutions",
+        "description": "We create scalable and secure e-commerce platforms that drive sales, enhance customer experience, and integrate with payment systems."
+      },
+      {
+        "image": "Images/digital-marketing.png",
+        "alt": "Service 4",
+        "title": "SEO & Digital Marketing",
+        "description": "Our SEO and digital marketing strategies ensure your business ranks higher on search engines and reaches the right audience."
+      }
+    ]
+  }
+  

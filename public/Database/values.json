@@ -1,0 +1,31 @@
+[
+    {
+      "className": "value-item trust",
+      "content": {
+        "heading": "Trust",
+        "paragraph": "Our business is done with utmost integrity which means \"soundness of moral principle\". We keep our promises and are known as people who 'walk their talk'. Our actions always exceed our words."
+      }
+    },
+    {
+      "className": "value-item responsibility",
+      "content": {
+        "heading": "Responsibility",
+        "paragraph": "It is our responsibility to care about our clients and respect the trust they give us by choosing us as their agents. We are responsible for our attitude, our knowledge and our skills and, therefore, our level of success."
+      }
+    },
+    {
+      "className": "value-item standard",
+      "content": {
+        "heading": "Standard",
+        "paragraph": "We believe in standards of excellence in all that we do. Our aim is to win every client for life - to win more than a satisfied client, to win a loyal client."
+      }
+    },
+    {
+      "className": "value-item understanding",
+      "content": {
+        "heading": "Understanding",
+        "paragraph": "We understand the importance of listening to all our clients and communication. We understand our system, our client needs and the duty of our role towards all our esteemed clients."
+      }
+    }
+]
+  

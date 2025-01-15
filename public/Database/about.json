@@ -1,0 +1,22 @@
+{
+    "image": {
+      "src": "Images/About.png",
+      "alt": "Company Image"
+    },
+    "heading": "About Us",
+    "paragraphs": [
+      "At Elevatech Solutions, we are driven by a commitment to excellence. Our team of experienced professionals focuses on delivering high-quality IT and business solutions to clients across industries. We work collaboratively with businesses to provide tailored strategies that foster innovation, efficiency, and growth.",
+      "Since 2022, we have successfully empowered businesses by combining advanced technologies with creative solutions, helping our clients achieve their goals while staying ahead in the competitive market."
+    ],
+    "links": [
+      {
+        "text": "Explore Our Services",
+        "to": "/services"
+      },
+      {
+        "text": "Get In Touch",
+        "to": "/contact"
+      }
+    ]
+  }
+  
