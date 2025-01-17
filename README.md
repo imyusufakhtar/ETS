@@ -55,7 +55,6 @@ At Elevatech Solutions, we specialize in creating scalable, user-friendly, and p
 We’d love to hear from you! Whether you have a project in mind or just want to learn more about our services, reach out today.
 
 - **Official Website**: [Coming Soon](#)
-- **Website Demo**: [elevatech-solutions.netlify.app/](https://elevatech-solutions.netlify.app/)
 - **Email Address**: contact@elevatech-solutions.com  
 - **Social Media**: [LinkedIn](#), [Twitter](#), [Facebook](#)
 
